@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Gomes
+Hi My name is Eduardo Gomes
 =====================================================================================================================================
 
 I'm a Ph.D. Researcher specializing in Electrical Power Systems with a keen focus on the applications of Distributed Energy Resources. In this GitHub repository, you'll find my data-driven and power system applications that exemplify my dedication to solving real-world problems. I love working with Python, Matlab/Simulink, and R.
